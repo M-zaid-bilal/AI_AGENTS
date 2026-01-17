@@ -1,0 +1,22 @@
+# Minimal requirements for running the notebooks
+jupyterlab
+ipykernel
+requests
+beautifulsoup4
+pandas
+numpy
+tqdm
+matplotlib
+
+# Optional / recommended for LLM experiments, RAG, embeddings
+openai
+langchain
+sentence-transformers
+faiss-cpu
+transformers
+torch
+tiktoken
+
+# Utilities
+python-dotenv
+papermill
